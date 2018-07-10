@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reward &amp; Punishment</string>
+    <string-array name="evaluation_criterions_types">
+        <item>QUANTITIVE_QUALITATIVE</item>
+        <item>QUALITATIVE</item>
+        <item>QUANTITIVE</item>
+    </string-array>
+</resources>
